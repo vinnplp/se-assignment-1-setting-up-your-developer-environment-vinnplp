@@ -44,6 +44,53 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
+Environment set up assignment 1
+1.	Windows installation
+My system is not compatible with windows 11 hence and already I had windows 10 installed successfully.
+2.	Steps to Install Visual Studio Code on Windows
+          Step 1: Visit the Official Website of the Visual Studio Code using any web browser like Google Chrome, Microsoft Edge, etc.
+Step 2: Press the “Download for Windows” button on the website to start the download of the Visual Studio Code Application.
+Step 3: When the download finishes, then the Visual Studio Code Icon appears in the downloads folder.
+Step 4: Click on the Installer icon to start the installation process of the Visual Studio Code.
+Step 5: After the Installer opens, it will ask you to accept the terms and conditions of the Visual Studio Code. Click on I accept the agreement and then click the Next button.
+![alt text](image.png)
+ 
+Step 6: Choose the location data for running the Visual Studio Code. It will then ask you to browse the location. Then click on the Next button. I ticked all the boxes.
+ ![alt text](image-1.png)
+
+Step 7: Then it will ask to begin the installation setup. Click on the Install button.
+Step 8: After the Installation setup for Visual Studio Code is finished, it will show a window like this below. Tick the “Launch Visual Studio Code” checkbox and then click Next.
+Step 9: After the previous step, the Visual Studio Code window opens successfully.
+Below is a screenshot of an opened Vs Code
+ ![alt text](image-2.png)
+
+3.	My Git and Git hub account
+ 
+![alt text](image-3.png)
+ ![alt text](image-4.png)
+
+
+4.	My installed and running python
+ ![alt text](image-5.png)
+5.	My SQL database
+Download and Install MySQL for Windows Steps
+1.	Step 1: Visit the Official MySQL Website.
+2.	Step 2: Go to the Downloads Section.
+3.	Step 3: Run the Installer.
+4.	Step 4: Choose Setup Type.
+5.	Step 5: Check Requirements.
+6.	Step 6: MySQL Downloading.
+7.	Step 7: MySQL Installation.
+8.	Step 9: Create MySQL Accountsgit
+
+ ![alt text](image-6.png)
+
+Challenges Faced
+1.	Unable to install windows 11 hence opted for already installed windows 10
+2.	The challenges faced in installations of various programming language we were able to debug the codes successfully. 
+3.	On my end I didn’t face much of the challenges lucky to the chat GPT.
+
+
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
 - Effectiveness of version control implementation.
